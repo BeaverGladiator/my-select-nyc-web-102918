@@ -1,8 +1,4 @@
 def my_select(collection)
- # your code here!
-end
-
-def my_select(collection)
   if block_given?
     i = 0 
     selected_collection =  []
